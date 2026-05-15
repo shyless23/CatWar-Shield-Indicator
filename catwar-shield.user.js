@@ -10,6 +10,9 @@
 // @grant        GM_setValue
 // @grant        GM_getResourceURL
 // @resource     shieldIcon data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0MwMzkyQiIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjEuNSIgZD0iTTEyIDEgTDMgNSB2NiBjMCA1LjUgMy44IDEwLjUgOSAxMiA1LjItMS41IDktNi41IDktMTIgVjUgTDEyIDF6Ii8+PC9zdmc+
+// @icon         data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0MwMzkyQiIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjEuNSIgZD0iTTEyIDEgTDMgNSB2NiBjMCA1LjUgMy44IDEwLjUgOSAxMiA1LjItMS41IDktNi41IDktMTIgVjUgTDEyIDF6Ii8+PC9zdmc+
+// @updateURL    https://raw.githubusercontent.com/shyless23/CatWar-Shield-Indicator/main/catwar-shield.user.js
+// @downloadURL  https://raw.githubusercontent.com/shyless23/CatWar-Shield-Indicator/main/catwar-shield.user.js
 // ==/UserScript==
 
 (function() {
