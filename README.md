@@ -3,7 +3,7 @@
 Userscript, показывающий иконку щита над персонажем при активном блоке в игре CatWar.
 
 # Установка
-1. Убедитесь, что у вас установлен [Tampermonkey](https://www.tampermonkey.net/) (или другой менеджер скриптов).
+1. Убедитесь, что у вас установлен [Tampermonkey](https://www.tampermonkey.net/) (или другой менеджер скриптов) и у него есть доступ к сайту raw.githubusercontent.com (или ко всем сайтам).
 2. [Нажмите сюда для установки](https://raw.githubusercontent.com/shyless23/CatWar-Shield-Indicator/main/catwar-shield.user.js).
 3. Зайдите на вкладку "Мой кот" и обновите страницу.
 4. Готово к использованию!
