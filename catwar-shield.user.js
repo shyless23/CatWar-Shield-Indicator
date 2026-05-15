@@ -3,7 +3,7 @@
 // @namespace    https://catwar.su/
 // @version      1.0
 // @description  Показывает иконку щита над персонажем при активном блоке.
-// @author       shyless | Сумрак | catwar.su/cat1688719
+// @author       shyless / Сумрак / catwar.su/cat1688719
 // @match        https://catwar.su/*
 // @match        https://catwar.net/*
 // @grant        GM_getValue
