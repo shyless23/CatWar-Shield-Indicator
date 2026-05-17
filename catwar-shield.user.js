@@ -32,8 +32,10 @@
         }
     }
 
-    // При первом запуске на любой странице пытаемся сохранить ID
-    savePlayerId();
+    // Сохраняем ID только на главной странице (путь "/" или пустой)
+    if (location.pathname === '/' || location.pathname === '') {
+        savePlayerId();
+    }
 
     // ---------- 2. Загрузка иконки ----------
     let shieldIconUrl = null;
